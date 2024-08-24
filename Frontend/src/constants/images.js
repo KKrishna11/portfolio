@@ -13,6 +13,7 @@ import quoteimg from "../assets/rightquotesign.png";
 import leftimg from "../assets/leftarrow.png";
 import rightimg from "../assets/arrowright.png";
 import myphtot from "../assets/myphtot.png";
+import mainphoto from "../assets/mainphoto.jpg"
 
 export default {
   logo,
@@ -30,4 +31,5 @@ export default {
   leftimg,
   rightimg,
   myphtot,
+  mainphoto
 };

@@ -33,10 +33,10 @@ const Education = () => {
         <div className="edcontainer left-edcontainer">
           <div className="text-box">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlPiXxOPNHA5zidD5xNTyLFgToF_TLJeoGTjW0vKSsIl7oB9ieM7Gxr0CyBj9gEwc6yQ&usqp=CAU" />
-            <h2>Vivekanand education society's college of arts sicence and commerce</h2>
-            <small>Bachelor in Computer Science - 2021 - 2024</small>
+            <h2>Vivekanand education society's college of arts science and commerce</h2>
+            <small>Bachelor in Computer Science - 2021 - 2024 Completed</small>
             <p>Mumbai University</p>
-            <p>SEM 4 CGPA - 8.28</p>
+            <p>CGPA - 8.73</p>
             <span className="left-edcontainer-arrow"></span>
           </div>
         </div>
@@ -55,7 +55,7 @@ const Education = () => {
           </div>
         </div>
         <div className="edcontainer left-edcontainer">
-          <img src="https://jnpt.edusprint.in/?imageFileHostedPath=jnpt/sgimg/02eed51e-0a4c-4032-8698-e2e992884fd6_logo.JPG" />
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO4_E2l6uOxyFcSalaHicaEl_5C1DEiJq8HQ&s" alt="logo" />
           <div className="text-box">
             <h2>J.N petit technical school</h2>
             <small> SSC - 2019</small>
