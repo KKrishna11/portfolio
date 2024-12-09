@@ -42,7 +42,7 @@ function Home() {
         </div>
       </div>
       <div className="coffee">
-        <img src={images.mainphoto} />
+        <img src={images.myphtot} />
       </div>
       <div className="short-about">
         <div className="main-h1-short-about">
