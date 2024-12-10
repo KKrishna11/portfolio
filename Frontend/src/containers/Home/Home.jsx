@@ -41,9 +41,9 @@ function Home() {
           
         </div>
       </div>
-      {/* <div className="coffee">
-        <img src={images.myphtot} />
-      </div> */}
+      <div className="coffee">
+        <img src={images.mainphoto} />
+      </div>
       <div className="short-about">
         <div className="main-h1-short-about">
           <h1 className="main-short-about">About Me</h1>
