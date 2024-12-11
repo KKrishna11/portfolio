@@ -32,18 +32,18 @@ body {
   overflow: hidden;
 }
 .txt-line p {
-  font-size: 200px;
+  font-size: 180px;
   text-transform: capitalize;
   letter-spacing: -9px;
   overflow: hidden;
   font-family: "Josefin Sans", cursive;
   span {
-    padding-left: 10px;
+    padding-left: 8px;
   }
 }
 
 .line-bottom {
-  margin-top: -40px;
+  margin-top: -60px;
 }
 
 .left-side-quotes {
@@ -71,7 +71,7 @@ body {
 }
 .coffee {
   margin-left: 900px;
-  margin-top: -400px;
+  margin-top: -300px;
   img {
     border: 1px solid black;
     width: 400px;
